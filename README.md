@@ -4,5 +4,10 @@
 ### 앱 이용방법
 <img src="https://user-images.githubusercontent.com/91523484/158516191-98cc8cc2-bd05-4681-a0db-48c2dacecd67.gif">  <br/> <br/>
 ### 클라이언트(안드로이드) <br/> 회원가입 및 로그인 / 사진촬영 및 신고 / 신고결과
-<img src="https://user-images.githubusercontent.com/91523484/158616134-8d9ad925-912b-4d12-91ae-4f509a4e0447.gif" width="250" height="500" >  <img src="https://user-images.githubusercontent.com/91523484/158503282-6df79dc3-1347-4dc9-965e-023f4ca3a6ea.gif" width="250" height="500"> <img src="https://user-images.githubusercontent.com/91523484/158505456-c8010f51-988a-48eb-b58d-f96c33a26104.gif" width="250" height="500"> <hr/>
+<img src="https://user-images.githubusercontent.com/91523484/158616134-8d9ad925-912b-4d12-91ae-4f509a4e0447.gif" width="250" height="500" >  <img src="https://user-images.githubusercontent.com/91523484/158503282-6df79dc3-1347-4dc9-965e-023f4ca3a6ea.gif" width="250" height="500"> <img src="https://user-images.githubusercontent.com/91523484/158505456-c8010f51-988a-48eb-b58d-f96c33a26104.gif" width="250" height="500"> 
+### 관리자(장고) <br/> 로그인 및 시각화 /
+<img src="https://user-images.githubusercontent.com/91523484/158720741-3483ad43-ac2e-4928-b7c9-bbbfd43a2e75.gif" width="500" height="300"> <img src="https://user-images.githubusercontent.com/91523484/158720741-3483ad43-ac2e-4928-b7c9-bbbfd43a2e75.gif" width="500" height="300" > 
 
+
+<!-- <hr/>
+<img src="" width="" height=""> -->
