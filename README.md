@@ -6,7 +6,7 @@
 ### 클라이언트(안드로이드) <br/> 회원가입 및 로그인 / 사진촬영 및 신고 / 신고결과
 <img src="https://user-images.githubusercontent.com/91523484/158616134-8d9ad925-912b-4d12-91ae-4f509a4e0447.gif" width="250" height="500" >  <img src="https://user-images.githubusercontent.com/91523484/158503282-6df79dc3-1347-4dc9-965e-023f4ca3a6ea.gif" width="250" height="500"> <img src="https://user-images.githubusercontent.com/91523484/158505456-c8010f51-988a-48eb-b58d-f96c33a26104.gif" width="250" height="500" > <br/> <br/>
 ### 관리자(장고) <br/> 로그인 및 시각화 / 갤러리 로그???? 
-<img src="https://user-images.githubusercontent.com/91523484/158720741-3483ad43-ac2e-4928-b7c9-bbbfd43a2e75.gif" width="415" height="280"> <img src="https://user-images.githubusercontent.com/91523484/158722695-ea016d1e-6846-448c-823b-292d72db0b50.gif" width="415" height="250" >
+<img src="https://user-images.githubusercontent.com/91523484/158720741-3483ad43-ac2e-4928-b7c9-bbbfd43a2e75.gif" width="412" height="280"> <img src="https://user-images.githubusercontent.com/91523484/158722695-ea016d1e-6846-448c-823b-292d72db0b50.gif" width="412" height="250" >
 ### 지도 분포 / 신고로그
 <img src="https://user-images.githubusercontent.com/91523484/158725636-9da3153b-62ad-4fb1-af31-4e5b5afc8850.gif" width="500" height="300"> <img src="https://user-images.githubusercontent.com/91523484/158724817-d9b4f632-6c41-4eab-9a62-e5ebbbf661f1.gif" width="500" height="300"> <br/> <br/> <br/>
 
