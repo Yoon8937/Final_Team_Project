@@ -44,12 +44,7 @@
 * 개발도구 : Android Studio, MobaXterm, MySQL workbench, Postman, github, Wireshark, Pycharm
 * 개발언어 : Java, Python, SQL
 * 사용장비 : NVIDIA T4 Tensor core GPU
-
-      
-      
-
-
-
+<br/> <br/>
 # 시스템 구조
 <img src="https://user-images.githubusercontent.com/91523484/158737848-c0960568-2c38-49a2-9ca6-806159e9bbd0.png"> 
 
