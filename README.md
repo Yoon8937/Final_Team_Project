@@ -21,6 +21,7 @@
     * User Interface 설계 및 구현
       * Android Camera 구현
       * 로그인/회원가입 구현
+      * GPS(위도, 경도)로 현재위치 구현
       * Button 메뉴 구현
       * 로딩 화면 구현
       * 이미지 업로드 화질 개선 
