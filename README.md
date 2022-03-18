@@ -1,6 +1,7 @@
 # 🚫 불법 주정차 시민신고 자동처리 시스템 🚫 
 # 🖥 DEMO 💻 
 <!-- 처음부터 끝까지 어떻게 작동하는지로 설명하듯 사람들이 쉽게 알아볼수있게 전개하기 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoon8937%2FFinal_Team_Project&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 앱 이용방법
 <img src="https://user-images.githubusercontent.com/91523484/158516191-98cc8cc2-bd05-4681-a0db-48c2dacecd67.gif">  <br/> <br/>
 ### 클라이언트(안드로이드) <br/> 회원가입 및 로그인 / 사진촬영 및 신고 / 신고결과
