@@ -36,7 +36,10 @@
   * Django framework
       * CSRF Token을 이요한 Android framework 연동 및 세션 유지 
       * Postman을 이용한 디버깅
-      * Django 개발 환경 설정 
+      * Django 개발 환경 설정
+      
+  * 통신
+      * Postman을 활용한 REST API 기능 테스트
 <br/> <br/>
 
 # 🔨 About Project
