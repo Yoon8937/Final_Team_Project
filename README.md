@@ -11,8 +11,11 @@
 ### 지도 분포 / 신고로그
 <img src="https://user-images.githubusercontent.com/91523484/158725636-9da3153b-62ad-4fb1-af31-4e5b5afc8850.gif" width="412" height="255"> <img src="https://user-images.githubusercontent.com/91523484/158724817-d9b4f632-6c41-4eab-9a62-e5ebbbf661f1.gif" width="412" height="255"> <br/> <br/> <br/>
 
+
 # 📖 프로젝트 개요
 ### 불법 주·정차 문제는 현재 해마다 늘어나고 있지만, 시청에서 실행할 수 있는 단속에는 그 한계가 명확히 보인다. 이를 시청에서 관리할 수 있는 시공간적 자료의 부재와 인적자원 부족의 문제로 판단하였다. 두 문제점을 보완하기 위해 불법 주·정차로 불편을 겪는 일반인들도 적극적으로 이용 가능하며, 시스템을 관리하는 시청이나 공익 기관에서 접수된 신고를 빠르고 쉽게 처리할 수 있고, 처리된 결과를 통해 시공간적 자료를 확보할 수 있는 시스템을 구축하기 위해 프로젝트를 기획하였습니다. <br/> <br/>
+
+
 #  👨‍🔧 주요담당 및 역활
 ### 최윤규
   * Android framework
@@ -30,6 +33,7 @@
   * AWS(Amazon Web Service)
     * AWS EC2로 인스턴스 생성 및 원격 SSH 연결 (MobaXterm)
     * AWS Lambda serverless 트리거 - 이벤트 연동 -S3(트리거), RDS(이벤트)
+    * AWS RDS MySQL과 연동
     * AWS Cloudwatch로 AWS Lambda 관리 감독 – 예상 비용 검토
     * AWS IAM, Billing에서 사용자 역할 및 계정 예산 관리
 
@@ -42,6 +46,7 @@
       * Postman을 활용한 REST API 기능 테스트
 <br/> <br/>
 
+
 # 🔨 About Project
 * 개발환경 : Windows10, Linux
 * 사용기술 : Android Framework, REST API, AWS EC2, AWS S3, AWS RDS, AWS lambda, AWS Cloudwatch, Django Framework, NGINX 
@@ -49,6 +54,8 @@
 * 개발언어 : Java, Python, SQL
 * 사용장비 : NVIDIA T4 Tensor core GPU
 <br/> <br/>
+
+
 # ⚙ 시스템 구조
 <img src="https://user-images.githubusercontent.com/91523484/158737848-c0960568-2c38-49a2-9ca6-806159e9bbd0.png"> 
 
