@@ -16,35 +16,47 @@
 ### 불법 주·정차 문제는 현재 해마다 늘어나고 있지만, 시청에서 실행할 수 있는 단속에는 그 한계가 명확히 보인다. 이를 시청에서 관리할 수 있는 시공간적 자료의 부재와 인적자원 부족의 문제로 판단하였다. 두 문제점을 보완하기 위해 불법 주·정차로 불편을 겪는 일반인들도 적극적으로 이용 가능하며, 시스템을 관리하는 시청이나 공익 기관에서 접수된 신고를 빠르고 쉽게 처리할 수 있고, 처리된 결과를 통해 시공간적 자료를 확보할 수 있는 시스템을 구축하기 위해 프로젝트를 기획하였습니다. <br/> <br/>
 
 
-<!-- #  👨‍🔧 주요담당 및 역활
+#  👨‍🔧 주요담당 및 역활
 ### 최윤규
-  * Android framework
-    * Django model에 적용 가능한 REST API 설정 설계 - POST, GET
-    * Django framework와 Retrofit2 라이브러리를 통한 통신 구현 
-    * Wireshark를 통한 디버깅(팻킷분석)
-    * User Interface 설계 및 구현
-      * Android Camera 구현
-      * 로그인/회원가입 구현
-      * GPS(위도, 경도)로 현재위치 구현
-      * Button 메뉴 구현
-      * 로딩 화면 구현
-      * 이미지 업로드 화질 개선 
-      
-  * AWS(Amazon Web Service)
-    * AWS EC2로 인스턴스 생성 및 원격 SSH 연결 (MobaXterm)
-    * AWS Lambda serverless 트리거 - 이벤트 연동 -S3(트리거), RDS(이벤트)
-    * AWS RDS MySQL과 연동
-    * AWS Cloudwatch로 AWS Lambda 관리 감독 – 예상 비용 검토
-    * AWS IAM, Billing에서 사용자 역할 및 계정 예산 관리
+* 모델링
+    * 시스템 아키텍쳐 모델링
 
-  * Django framework
-      * CSRF Token을 이요한 Android framework 연동 및 세션 유지 
-      * Postman을 이용한 디버깅
+
+* 통신 구축
+    * 통신 구축
+    * Django framework와 Android framework에 REST API 적용 설계
+    * Django/Android 앱/웹 플러그인 – POST, DELETE로 리소스 연동
+    * Postman을 이용한 REST API 성능 테스트 및 검증
+    * CSRF Token을 이용한 Session 지속 기능 구현
+    * Android framework로 이미지 및 JSON 데이터 POST, GET 구현(회원가입/로그인, 사진 전송)
+    * Wireshark를 이용한 통신 방법 보완(TCP Packet 추적하여 데이터 형식 통일)
+ 
+ 
+ * Django Framework
       * Django 개발 환경 설정
-      
-  * 통신
-      * Postman을 활용한 REST API 기능 테스트
-<br/> <br/> -->
+      * Django Models, Views 설계
+      * AWS RDS MySQL과 연동 및 리소스 푸쉬 / 풀
+      * CSRF Token을 이용한 Android framework 연동 및 세션 유지
+      * Postman을 이용한 디버깅
+     
+     
+ * AWS(Amazon Web Service) 
+    * AWS IAM을 이용한 사용자 역할 및 정책 관리와 계정 예상 비용 관리
+    * AWS EC2 설치 및 개발환경 구축 – 가상환경, 모듈 설치, 원격 컴퓨터 제어, SSH 연결 
+    * AWS RDS 데이터베이스 스키마 설계 및 연동
+    * AWS Lambda serverless 트리거-이벤트 연동 – S3(트리거), Rekognition/RDS(이벤트)
+    * AWS Cloudwatch로 AWS Lambda 관리 감독 – 예상 비용 검토
+
+  
+ * Android Framework
+    * Django model에 적용 가능한 REST API 설정 설계 – POST, GET
+    * Django framework와의 Retrofit2를 통한 통신 구현 
+    * Wireshark를 통한 디버깅 
+    * User Interface, 로그인 설계 및 구현  
+    
+
+
+<br/> <br/>
 
 
 # 🔨 About Project
