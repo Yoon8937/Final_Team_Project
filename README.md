@@ -61,9 +61,9 @@
 
 # 🔨 About Project
 * 개발환경 : Windows10, Linux
-* 사용기술 : Android Framework, REST API, AWS EC2, AWS S3, AWS RDS, AWS lambda, AWS Cloudwatch, Django Framework, NGINX 
-* 개발도구 : Android Studio, MobaXterm, MySQL workbench, Postman, github, Wireshark, Pycharm
-* 개발언어 : Java, Python, SQL
+* 사용기술 : Django Framework, REST API, NGINX, Wsgi, AWS EC2, AWS S3, AWS RDS, AWS lambda, AWS Cloudwatch,  Android Framework
+* 개발도구 : MobaXterm, MySQL workbench, Postman, github, Wireshark, Pycharm, Android Studio
+* 개발언어 : Python, SQL, Java
 * 사용장비 : NVIDIA T4 Tensor core GPU
 <br/> <br/>
 
