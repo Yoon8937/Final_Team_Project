@@ -27,10 +27,9 @@
     * Django framework와 Android framework에 REST API 적용 설계
     * Django/Android 앱/웹 플러그인 – POST, DELETE로 리소스 연동
     * Postman을 이용한 REST API 성능 테스트 및 검증
-<!--     * CSRF Token을 이용한 Session 지속 기능 구현 -->
     * Android framework로 이미지 및 JSON 데이터 POST, GET 구현(회원가입/로그인, 사진 전송)
     * Wireshark를 이용한 통신 방법 보완(TCP Packet 추적하여 데이터 형식 통일)
- 
+<!--     * CSRF Token을 이용한 Session 지속 기능 구현 -->
  
  * Django Framework
       * Django 개발 환경 설정
